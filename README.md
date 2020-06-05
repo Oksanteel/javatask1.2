@@ -15,7 +15,7 @@
 * Тест-кейс по проверке работы IntelliJ IDEA https://github.com/Oksanteel/javatask1.2/blob/master/TESTK.md
 
 
-В качестве тестовых данных использовались данные из "Тест-кейса по проверке работы IntelliJ IDEA", ссылка на источник: :
+В качестве тестовых данных использовались данные из "Тест-кейса по проверке работы IntelliJ IDEA", ссылка на источник: https://github.com/Oksanteel/javatask1.2/blob/master/TESTK.md :
 * 4096022379134670 - OK
 * 4148923223424688 - OK
 * 4017334200146963 - OK
